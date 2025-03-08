@@ -1,4 +1,4 @@
-# Predicción de Cáncer de Pulmón en Fumadores
+# Predicción de cáncer de pulmón en pacientes tabaquistas 
 
 Este proyecto utiliza Machine Learning para predecir el cáncer de pulmón en pacientes tabaquistas. 
 Utiliza el algoritmo Random Forest para entrenar un modelo con un conjunto de datos de pacientes y realizar predicciones.
