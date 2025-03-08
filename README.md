@@ -25,9 +25,9 @@ Esto significa que el modelo puede ayudar a identificar correctamente a los paci
 El conjunto de datos utilizado proviene del UCI Machine Learning Repository.
 
 ## Tecnologías y Herramientas
-Python
-Jupyter Notebook
-Scikit-learn
-Pandas
-Matplotlib
+Python - 
+Jupyter Notebook - 
+Scikit-learn - 
+Pandas - 
+Matplotlib - 
 Seaborn
